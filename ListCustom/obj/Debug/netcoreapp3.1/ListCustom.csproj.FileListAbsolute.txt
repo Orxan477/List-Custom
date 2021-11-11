@@ -1,0 +1,14 @@
+C:\Users\Orxan477\source\repos\ListCustom\ListCustom\obj\Debug\netcoreapp3.1\ListCustom.csproj.AssemblyReference.cache
+C:\Users\Orxan477\source\repos\ListCustom\ListCustom\obj\Debug\netcoreapp3.1\ListCustom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orxan477\source\repos\ListCustom\ListCustom\obj\Debug\netcoreapp3.1\ListCustom.AssemblyInfoInputs.cache
+C:\Users\Orxan477\source\repos\ListCustom\ListCustom\obj\Debug\netcoreapp3.1\ListCustom.AssemblyInfo.cs
+C:\Users\Orxan477\source\repos\ListCustom\ListCustom\obj\Debug\netcoreapp3.1\ListCustom.csproj.CoreCompileInputs.cache
+C:\Users\Orxan477\source\repos\ListCustom\ListCustom\bin\Debug\netcoreapp3.1\ListCustom.exe
+C:\Users\Orxan477\source\repos\ListCustom\ListCustom\bin\Debug\netcoreapp3.1\ListCustom.deps.json
+C:\Users\Orxan477\source\repos\ListCustom\ListCustom\bin\Debug\netcoreapp3.1\ListCustom.runtimeconfig.json
+C:\Users\Orxan477\source\repos\ListCustom\ListCustom\bin\Debug\netcoreapp3.1\ListCustom.runtimeconfig.dev.json
+C:\Users\Orxan477\source\repos\ListCustom\ListCustom\bin\Debug\netcoreapp3.1\ListCustom.dll
+C:\Users\Orxan477\source\repos\ListCustom\ListCustom\bin\Debug\netcoreapp3.1\ListCustom.pdb
+C:\Users\Orxan477\source\repos\ListCustom\ListCustom\obj\Debug\netcoreapp3.1\ListCustom.dll
+C:\Users\Orxan477\source\repos\ListCustom\ListCustom\obj\Debug\netcoreapp3.1\ListCustom.pdb
+C:\Users\Orxan477\source\repos\ListCustom\ListCustom\obj\Debug\netcoreapp3.1\ListCustom.genruntimeconfig.cache

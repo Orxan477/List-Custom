@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bMK0kXJL3NsRY4k0TnEuUXUPD0wPHZFiI4CQm4/76uCTBKIuTlZhr6Ycx7sbwZEVRSql1D9iuq0wHrb+UXjmmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Orxan477\\source\\repos\\ListCustom\\ListCustom\\ListCustom.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Orxan477\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Orxan477\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Orxan477\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\Orxan477\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
