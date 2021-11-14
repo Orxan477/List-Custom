@@ -149,16 +149,15 @@ namespace ListCustom.Models
         /// <returns>list</returns>
         public MyList<T> FindAll(Predicate<T> func)
         {
-            MyList<T> FindAll = new MyList<T>();
+            MyList<T> FindAll = new MyList<T>();           
             foreach (var search in _list)
             {
                 if (func(search))
                 {
-                    FindAll.Add(search);
-                    return FindAll;
+                    FindAll.Add(search);                  
                 }
             }
-            return default;
+            return FindAll; 
         }
     }
 }
